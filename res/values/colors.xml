@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Mau khi chon -->
+    <color name="blue">#ff2570ba</color>
+    <!-- Mau mac dinh -->
+    <color name="grey">#f7f7f7</color>
+    
+    <color name="text_title">#FFFFFF</color>
+    <color name="background_title">#3090c7</color>
+    <!-- 0x00000000 -->
+
+</resources>
